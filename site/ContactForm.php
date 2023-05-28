@@ -41,7 +41,7 @@
    </div>
 
 <!-- Formulaire de contact -->
-<form method="GET" action="Envoimail.php">
+<form method="POST" action="Envoimail.php">
     <label for="nom">Nom :</labwel>
     <input type="text" name="nom" id="nom" required><br><br>
 
