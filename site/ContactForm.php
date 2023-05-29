@@ -28,9 +28,6 @@
                   <span class="text-2xl font-bold">SantÉconomie</span>
                </a>
             </div>
-
-            
-
          </div>
       </div>
    </nav>
